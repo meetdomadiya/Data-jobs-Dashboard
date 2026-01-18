@@ -23,4 +23,4 @@ Explore the dashboards below. Each has its own dedicated README.
 * 🔘 Buttons & Bookmarks for Page Navigation
 * ➡️ Drill-Through Functionality
 
-[**View Project 1 Details (README.md)**](/Data-jobs-Dashboard/Data_jobs_V1/README.md)
+[**View Project 1 Details (README.md)**](/Data_jobs_V1/README.md)
