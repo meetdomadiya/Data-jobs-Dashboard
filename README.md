@@ -27,7 +27,7 @@ Explore the dashboards below. Each has its own dedicated README.
 
 ## Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
-![Dashboard Page 1](/Images/Project2_Page1.png) 
+![Dashboard2 Page 1](/Images/Project2_Page1.png) 
 
 **Key Power BI Skills Utilized (demonstrating progression):**
 
